@@ -74,6 +74,10 @@ TerraFurni is a comprehensive web application for managing furniture inventory, 
   - Database Migration
   - Model Relationships
 
+## 🌐 Live Demo
+- [Admin Interface](https://terrafurni-admin.web.app/)
+- [Public Interface](https://terrafurni-public.web.app/)
+
 ## 🔗 Related Repositories
 
 - Frontend: Current repository
