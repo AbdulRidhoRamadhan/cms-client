@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:4040",
+  baseURL: "https://cms-go-server.abdulridhoramadhan.my.id",
 });
