@@ -91,6 +91,16 @@ export default function Navbar() {
             <span>Tambah User</span>
           </Link>
 
+          <a
+            href="https://terrafurni-public.web.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors"
+          >
+            <ShoppingBagIcon className="w-5 h-5" />
+            <span>Lihat Toko</span>
+          </a>
+
           <button
             onClick={Logout}
             className="w-full flex items-center space-x-3 px-4 py-3 rounded-lg text-red-600 hover:bg-red-50 transition-colors"
