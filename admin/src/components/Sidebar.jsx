@@ -7,6 +7,7 @@ import {
   TagIcon,
   ChartBarIcon,
   ArrowLeftEndOnRectangleIcon,
+  UserIcon,
 } from "@heroicons/react/24/outline";
 
 export default function Navbar() {
@@ -99,6 +100,16 @@ export default function Navbar() {
           >
             <ShoppingBagIcon className="w-5 h-5" />
             <span>Lihat Toko</span>
+          </a>
+
+          <a
+            href="https://abdulridhoramadhan.my.id"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors"
+          >
+            <UserIcon className="w-5 h-5" />
+            <span>Portfolio</span>
           </a>
 
           <button
