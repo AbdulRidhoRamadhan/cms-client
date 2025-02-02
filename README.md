@@ -83,6 +83,24 @@ TerraFurni is a comprehensive web application for managing furniture inventory, 
 - Frontend: Current repository
 - Backend: [cms-go-server](https://github.com/AbdulRidhoRamadhan/cms-go-server)
 
+## 🔑 Credentials
+
+To try out the application, use the following credentials:
+
+- **Admin Interface**:
+  - Email: `demo@mail.com`
+  - Password: `demo123`
+
+- **Public Interface**:
+  - No login required
+ 
+**Note:** Accounts with admin roles have full access to all system features and settings, but for security reasons, credentials for role admin accounts are not included in this demo.
+
+The demo account provided is a staff role account, which has the following limitations:
+- Can update, delete, and update images using the upload feature for posts they have created.
+- Cannot create other staff accounts.
+- Cannot update, delete, and update images using the upload feature for posts created by other users.
+
 ## 🚀 Getting Started
 
 1. Clone the repository
