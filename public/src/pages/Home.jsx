@@ -29,7 +29,7 @@ export default function Home() {
           search,
           sort,
           page,
-          limit: 10,
+          limit: 9,
           categoryName: category,
         },
       });
